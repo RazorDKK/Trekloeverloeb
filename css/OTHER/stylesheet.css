@@ -1,0 +1,238 @@
+body{
+margin-top: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+
+}
+
+#login{
+    color: rgb(161, 49, 49);
+    height: auto;
+    background-color: blueviolet;
+   
+}
+
+#top{
+    background-color: rgba(102, 107, 255, 0.414);
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: -5px;
+    margin-bottom: -10px;
+}
+
+/*
+#logo2{
+    height: 100px;
+    width: auto;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -12px;
+    margin-top: -12px;
+    display: block;
+
+}
+
+#logo{
+  height: 57px;
+  width: auto;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-bottom: -10px;
+  margin-top: -10px;
+  display: block;
+
+}
+*/
+div.navbar.ul
+/*Navigation bar*/
+body {margin:0;}
+        
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+ padding: 16px 16px;
+  text-decoration: none;
+  padding-top: 20px;
+}
+
+ul a:hover:not(.active) {
+  background-color: #111;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+/*NavigationBar acktive*/
+.active-navbar {
+  background-color: #008d0c;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+
+
+/*Bottom of Page*/
+li.bp{
+    float: bottom;
+}
+
+
+
+/*Hjælp siden*/
+.accordion:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: rgb(119, 119, 119);
+  float: right;
+  margin-left: 5px;
+}
+
+
+
+#hjælp {
+  margin-top: 70px;
+  font-size: larger;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+  font-style: normal;
+  background-color: rgb(214, 214, 214);
+  padding-bottom: 20%;
+  
+}
+
+
+
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: justify;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
+
+
+
+#findpsy {
+  text-align: center;
+  margin-top: 70px;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: larger;
+  background-color: #ccc;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.search-container{
+  
+  padding: 10px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.search-container button:hover {
+  background: #ccc;
+}
+
+
+
+#findpsy2 {
+  text-align: center;
+  margin-top: 55px;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: larger;
+  background-color: #ccc;
+  height: 100%;
+  padding-bottom: 10%;
+  margin-bottom: 5%;
+  border-radius: 15px 15px 15px 15px;
+}
+
+#fundet {
+  text-align: center;
+  margin-top: 70px;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: larger;
+  background-color: #ccc;
+  height: 100%;
+  padding-bottom: 25%;
+  margin-bottom: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.table {
+  border: 2px solid #000000;
+  text-align: left;
+ 
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  margin-top: 90px;
+}
+
+.maps {
+  margin-top: 100px;
+}
+
+.cura-logo {
+  width: auto;
+  height: 30px;
+}
+
+#background{
+  background-color: hwb(0 35% 65%);
+  margin-top: 0;
+  padding-top: 1%;
+  margin-bottom: 0px;
+  padding-bottom: 230px;
+}
+
+.overskrift {
+  background-color: #008d0c;
+  color: rgb(255, 255, 255);
+  margin-left: 212px;
+  margin-right: 212px;
+  border-radius: 15px;
+  padding: 10px;
+}
+body{
+  background-color: hwb(0 35% 65%);
+}
