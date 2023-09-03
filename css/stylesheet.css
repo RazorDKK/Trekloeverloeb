@@ -232,3 +232,14 @@ h5{
   margin-top: 3px;
 
 }
+.diplom{
+  aspect-ratio: 3/4;
+  width:50vw;
+}
+.Textbox1{
+  width: 50vw;
+  margin: 25px auto auto;
+  background-color: var(--Secondary-Color);
+  border-radius: 15px 15px 15px 15px;
+  padding-top: 10px;
+}
